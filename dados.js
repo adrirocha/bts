@@ -27,7 +27,7 @@ let dados = [
         titulo: "Jimin",
         descricao: "Park Jimin é conhecido por suas habilidades de dança e vocal suave. Ele também é um dos membros mais populares do BTS.",
         link: "https://pt.wikipedia.org/wiki/Park_Ji-min_(cantor)",
-        tags: "dança vocal agudo tenor"
+        tags: "dança vocal cantor agudo tenor"
     },
     {
         titulo: "V",
